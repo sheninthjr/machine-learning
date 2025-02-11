@@ -1,4 +1,4 @@
-# Data Science Problems using Numpy and Pandas
+# Data Science Problems
 
 ## Numpy
 
